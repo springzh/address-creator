@@ -40,6 +40,11 @@ const NETWORKS = {
     rpcUrl: 'https://sepolia.base.org',
     chainId: 84532
   },
+  base: {
+    name: 'Base Mainnet',
+    rpcUrl: 'https://mainnet.base.org',
+    chainId: 8453
+  },
   ethereum: {
     name: 'Ethereum Mainnet',
     // rpcUrl: 'https://eth.public-rpc.com',
